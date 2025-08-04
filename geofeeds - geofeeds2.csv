@@ -1,4 +1,5 @@
 # Geofeed https://ipcomsistemas.co/geofeed/
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
 38.190.100.0/22,PE,PE-LIM,LIMA,
-38.19.228.0/22,PE,PE-LIM,Lima
+38.19.228.0/22,PE,PE-LIM,Lima,
+38.172.128.0/22,PE,PE-LIM,LIMA,
